@@ -6,7 +6,7 @@
 
 Full circuit schematic showing all component blocks — ESP32-S3, Button Interface, DFPlayer + AUX, RTC Module, and OLED.
 
-![Schematic Design](Documentation%20Photos/Screenshot_2026-05-20_155132.png)
+![Schematic Design](Documentation%20Photos/Screenshot 2026-05-20 155132.png)
 
 ---
 
@@ -54,5 +54,5 @@ Fully assembled device running live firmware. OLED shows date, time, volume, and
 
 The web dashboard at `http://192.168.4.1` showing the bell schedule, live clock, next bell countdown, and activity log.
 
-![Web Dashboard](Documentation%20Photos/Screenshot_2026-05-20_155504.png)
+![Web Dashboard](Documentation%20Photos/Screenshot 2026-05-20 160841.png)
 
