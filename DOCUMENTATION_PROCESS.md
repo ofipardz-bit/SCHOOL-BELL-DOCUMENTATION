@@ -1,4 +1,5 @@
 # 📋 Documentation Process — School Bell System
+To see all photos just open the file Documentation Photos
 
 ---
 
