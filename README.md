@@ -1,5 +1,6 @@
 # 🔔 Standalone Automated School Bell System
 ### ESP32-S3 · DS3231 RTC · DFPlayer Mini · SSD1306 OLED · Web Dashboard
+Group Name: SOFIA LORIN PARDILLO AND ANGELA LLANTO
 
 > A self-running, schedule-driven school bell system with a built-in web dashboard, OLED UI, and physical button controls.
 
